@@ -73,7 +73,7 @@
         "wk:page":"Ratkovac"
     },
     "wof:country":"XK",
-    "wof:geomhash":"d72a9552a3280beaa237cb343dc5ab6a",
+    "wof:geomhash":"3b1a43b0ffc2d9310bc2ba903c6a557c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -99,5 +99,5 @@
     20.53972000000001,
     42.40944
 ],
-  "geometry": {"coordinates":[20.53972000000001,42.40944],"type":"Point"}
+  "geometry": {"coordinates":[20.53972,42.40944],"type":"Point"}
 }

@@ -62,7 +62,7 @@
         "wk:page":"Kuqisht%C3%AB"
     },
     "wof:country":"XK",
-    "wof:geomhash":"be136f33fec9b7b85abd97973a5c84eb",
+    "wof:geomhash":"10baf382e0d1bd1fe25723785938ec09",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,5 +88,5 @@
     20.08167000000001,
     42.6975
 ],
-  "geometry": {"coordinates":[20.08167000000001,42.6975],"type":"Point"}
+  "geometry": {"coordinates":[20.08167,42.6975],"type":"Point"}
 }

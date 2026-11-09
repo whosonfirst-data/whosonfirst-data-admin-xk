@@ -73,7 +73,7 @@
         "wk:page":"Crnce"
     },
     "wof:country":"XK",
-    "wof:geomhash":"a62e988242cbbf2cd2a0e019ddca9125",
+    "wof:geomhash":"1f391e42cf4754f7fba40a992f8111c3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -99,5 +99,5 @@
     20.45306,
     42.77972000000001
 ],
-  "geometry": {"coordinates":[20.45306,42.77972000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.45306,42.77972],"type":"Point"}
 }

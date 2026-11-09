@@ -66,7 +66,7 @@
         "wk:page":"%C3%87ikatov%C3%AB_e_Vjeter"
     },
     "wof:country":"XK",
-    "wof:geomhash":"3c3c447b7ebc1b989c8c500dc089bbd7",
+    "wof:geomhash":"22c12ef5b010f53f590abd05641301ac",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     20.90778,
     42.65472000000001
 ],
-  "geometry": {"coordinates":[20.90778,42.65472000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.90778,42.65472],"type":"Point"}
 }

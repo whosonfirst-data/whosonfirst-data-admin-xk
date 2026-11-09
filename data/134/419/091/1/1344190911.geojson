@@ -59,7 +59,7 @@
         "wk:page":"Ka%C3%A7andoll"
     },
     "wof:country":"XK",
-    "wof:geomhash":"73ed932e5c0e4e052d000c119d152c88",
+    "wof:geomhash":"bbe8ea28d81eb647b647d07e487b01e7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -85,5 +85,5 @@
     21.05389,
     43.0
 ],
-  "geometry": {"coordinates":[21.05389,43.0],"type":"Point"}
+  "geometry": {"coordinates":[21.05389,43],"type":"Point"}
 }

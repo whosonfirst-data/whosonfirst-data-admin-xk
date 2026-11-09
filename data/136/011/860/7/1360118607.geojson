@@ -51,7 +51,7 @@
         "wk:page":"Dubov%C3%AB_e_vog%C3%ABl"
     },
     "wof:country":"XK",
-    "wof:geomhash":"c761b5eeb68d912de18c91c853cfb058",
+    "wof:geomhash":"c7d384fd4f3bccc84042e09377415da7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -77,5 +77,5 @@
     20.35972000000001,
     42.72361
 ],
-  "geometry": {"coordinates":[20.35972000000001,42.72361],"type":"Point"}
+  "geometry": {"coordinates":[20.35972,42.72361],"type":"Point"}
 }

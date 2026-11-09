@@ -82,7 +82,7 @@
         "wk:page":"Janjevo"
     },
     "wof:country":"XK",
-    "wof:geomhash":"36780eda97ba310aabf5a1b3b35a3245",
+    "wof:geomhash":"53b8b6db5c1693b79bd5cb1512fe2f89",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -108,5 +108,5 @@
     21.24889,
     42.57389000000001
 ],
-  "geometry": {"coordinates":[21.24889,42.57389000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.24889,42.57389],"type":"Point"}
 }

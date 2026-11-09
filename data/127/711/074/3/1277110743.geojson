@@ -69,7 +69,7 @@
         "wk:page":"Lup%C3%A7i_i_posht%C3%ABm"
     },
     "wof:country":"XK",
-    "wof:geomhash":"5c26d6f799f24f1bcba114c93c94ebc8",
+    "wof:geomhash":"fb4be801229bc2f716dd9940abed7689",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     21.15083,
     42.79389000000001
 ],
-  "geometry": {"coordinates":[21.15083,42.79389000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.15083,42.79389],"type":"Point"}
 }

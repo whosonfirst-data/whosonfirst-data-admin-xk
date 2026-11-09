@@ -67,7 +67,7 @@
         "wk:page":"Bajgora"
     },
     "wof:country":"XK",
-    "wof:geomhash":"4499c21132783366da42cc216ed2cb12",
+    "wof:geomhash":"b34acea830ba7e69146f9048bb1ff92f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -93,5 +93,5 @@
     21.00639,
     42.95652000000001
 ],
-  "geometry": {"coordinates":[21.00639,42.95652000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.00639,42.95652],"type":"Point"}
 }

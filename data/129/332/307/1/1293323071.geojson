@@ -74,7 +74,7 @@
         "wk:page":"Velika_Ho%C4%8Da"
     },
     "wof:country":"XK",
-    "wof:geomhash":"cfad0b5479009c24df076a15a5e4578e",
+    "wof:geomhash":"2dac96736b8ca4a46a771a49668c220c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -100,5 +100,5 @@
     20.6775,
     42.38417000000001
 ],
-  "geometry": {"coordinates":[20.6775,42.38417000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.6775,42.38417],"type":"Point"}
 }

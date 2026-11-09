@@ -60,7 +60,7 @@
         "wk:page":"Zhabar_i_Ep%C3%ABrm"
     },
     "wof:country":"XK",
-    "wof:geomhash":"43bda8c2662b0e283e016021161f8358",
+    "wof:geomhash":"942f1393759d3bf5a2d020801a1d46d6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -86,5 +86,5 @@
     20.83167000000001,
     42.86389000000001
 ],
-  "geometry": {"coordinates":[20.83167000000001,42.86389000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.83167,42.86389],"type":"Point"}
 }

@@ -62,7 +62,7 @@
         "wk:page":"Donja_Dubnica"
     },
     "wof:country":"XK",
-    "wof:geomhash":"bdae66abf4043bcccc8b0d4ead2047e3",
+    "wof:geomhash":"058b9d8b38b860a7ffd282849f6deae0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,5 +88,5 @@
     21.21652000000001,
     42.95357
 ],
-  "geometry": {"coordinates":[21.21652000000001,42.95357],"type":"Point"}
+  "geometry": {"coordinates":[21.21652,42.95357],"type":"Point"}
 }

@@ -60,7 +60,7 @@
         "wk:page":"Zhabar_i_Posht%C3%ABm"
     },
     "wof:country":"XK",
-    "wof:geomhash":"78887f102a03adfb895d365e03b3b152",
+    "wof:geomhash":"9c38bc6b4615c447625a0485fc3b35dc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -86,5 +86,5 @@
     20.84111,
     42.87139000000001
 ],
-  "geometry": {"coordinates":[20.84111,42.87139000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.84111,42.87139],"type":"Point"}
 }

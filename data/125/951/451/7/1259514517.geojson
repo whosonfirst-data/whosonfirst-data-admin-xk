@@ -51,7 +51,7 @@
         "gn:id":830040
     },
     "wof:country":"XK",
-    "wof:geomhash":"b7bc90da6b9c5ed491bde707dcf0e2aa",
+    "wof:geomhash":"04c7684ce27cbb72bea4fee25099b31a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -77,5 +77,5 @@
     20.64639,
     43.18944000000001
 ],
-  "geometry": {"coordinates":[20.64639,43.18944000000001],"type":"Point"}
+  "geometry": {"coordinates":[20.64639,43.18944],"type":"Point"}
 }

@@ -61,7 +61,7 @@
         "wk:page":"Sllakovc"
     },
     "wof:country":"XK",
-    "wof:geomhash":"b45e0f35eb7465b24ac1e4dda9c72903",
+    "wof:geomhash":"83f721a1315ee101df380893f5aa42d3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     21.05131,
     42.87394000000001
 ],
-  "geometry": {"coordinates":[21.05131,42.87394000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.05131,42.87394],"type":"Point"}
 }

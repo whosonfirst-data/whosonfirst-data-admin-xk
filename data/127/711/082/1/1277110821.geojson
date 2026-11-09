@@ -65,7 +65,7 @@
         "wk:page":"Gojbulja"
     },
     "wof:country":"XK",
-    "wof:geomhash":"98b06919787944593e7ca22fdb40d78c",
+    "wof:geomhash":"358ba6de3e81da6c5b58d23b542595bd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -91,5 +91,5 @@
     20.99167000000001,
     42.84889
 ],
-  "geometry": {"coordinates":[20.99167000000001,42.84889],"type":"Point"}
+  "geometry": {"coordinates":[20.99167,42.84889],"type":"Point"}
 }

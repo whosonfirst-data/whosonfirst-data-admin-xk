@@ -62,7 +62,7 @@
         "wk:page":"Sevce%2C_%C5%A0trpce"
     },
     "wof:country":"XK",
-    "wof:geomhash":"17053f6deab3a588b0240ae5125a00eb",
+    "wof:geomhash":"fe962c8370eac4f04faa82ee17df05cb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -88,5 +88,5 @@
     20.95667000000001,
     42.20972
 ],
-  "geometry": {"coordinates":[20.95667000000001,42.20972],"type":"Point"}
+  "geometry": {"coordinates":[20.95667,42.20972],"type":"Point"}
 }

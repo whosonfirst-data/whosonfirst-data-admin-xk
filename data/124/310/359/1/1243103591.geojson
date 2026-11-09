@@ -70,7 +70,7 @@
         "wk:page":"Vranidoll"
     },
     "wof:country":"XK",
-    "wof:geomhash":"f6c338ce7243186e262e63cf2a4223ba",
+    "wof:geomhash":"3735f1354e69ddd6eb346da7c748aa15",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -96,5 +96,5 @@
     21.15278,
     42.76694000000001
 ],
-  "geometry": {"coordinates":[21.15278,42.76694000000001],"type":"Point"}
+  "geometry": {"coordinates":[21.15278,42.76694],"type":"Point"}
 }

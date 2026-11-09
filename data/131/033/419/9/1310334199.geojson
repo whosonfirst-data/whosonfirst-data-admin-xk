@@ -68,7 +68,7 @@
         "wk:page":"Prilepnica"
     },
     "wof:country":"XK",
-    "wof:geomhash":"b06c1b2734276b83b8d511b866206e6f",
+    "wof:geomhash":"58762051c3ecf3b71c09bb2cc2b248fc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -94,5 +94,5 @@
     21.51917000000001,
     42.51278
 ],
-  "geometry": {"coordinates":[21.51917000000001,42.51278],"type":"Point"}
+  "geometry": {"coordinates":[21.51917,42.51278],"type":"Point"}
 }
