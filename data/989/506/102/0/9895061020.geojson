@@ -1,0 +1,74 @@
+{
+  "id": 9895061020,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.53845,42.93915,20.53845,42.93915",
+    "geom:latitude":42.93915,
+    "geom:longitude":20.53845,
+    "iso:country":"XK",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12239441: name \"Shvikov\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12239441"
+        },
+        {
+            "citation":"GeoNames populated place 12239441: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12239441"
+        },
+        {
+            "citation":"GeoNames populated place 12239441: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12239441"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108809561 (Zubin Potok), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633259,
+        102191581,
+        1108808605,
+        1108809561
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12239441
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"c6b890552a678bbc11388f0520c9065f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809561,
+            "locality_id":9895061020,
+            "region_id":1108808605
+        }
+    ],
+    "wof:id":9895061020,
+    "wof:lastmodified":1795735102,
+    "wof:name":"Shvikov",
+    "wof:parent_id":1108809561,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.53845,
+    42.93915,
+    20.53845,
+    42.93915
+],
+  "geometry": {"coordinates":[20.53845,42.93915],"type":"Point"}
+}

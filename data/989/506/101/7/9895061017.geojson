@@ -1,0 +1,74 @@
+{
+  "id": 9895061017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.16361,43.02399,21.16361,43.02399",
+    "geom:latitude":43.02399,
+    "geom:longitude":21.16361,
+    "iso:country":"XK",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12239430: name \"Fshati i Vjet\u00ebr\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12239430"
+        },
+        {
+            "citation":"GeoNames populated place 12239430: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12239430"
+        },
+        {
+            "citation":"GeoNames populated place 12239430: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12239430"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108809565 (Podujeve), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633259,
+        102191581,
+        1108808603,
+        1108809565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12239430
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"aa88dfe579c47376a4340d5d8b4ba126",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809565,
+            "locality_id":9895061017,
+            "region_id":1108808603
+        }
+    ],
+    "wof:id":9895061017,
+    "wof:lastmodified":1795735102,
+    "wof:name":"Fshati i Vjet\u00ebr",
+    "wof:parent_id":1108809565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.16361,
+    43.02399,
+    21.16361,
+    43.02399
+],
+  "geometry": {"coordinates":[21.16361,43.02399],"type":"Point"}
+}

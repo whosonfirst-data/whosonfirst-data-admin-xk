@@ -1,0 +1,74 @@
+{
+  "id": 9895061043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.08036,43.06793,21.08036,43.06793",
+    "geom:latitude":43.06793,
+    "geom:longitude":21.08036,
+    "iso:country":"XK",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12253742: name \"Lagjia Baqilisht\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12253742"
+        },
+        {
+            "citation":"GeoNames populated place 12253742: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12253742"
+        },
+        {
+            "citation":"GeoNames populated place 12253742: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12253742"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108809565 (Podujeve), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633259,
+        102191581,
+        1108808603,
+        1108809565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12253742
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"5320b366d0e01b98bc4cfbf1300c3cd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809565,
+            "locality_id":9895061043,
+            "region_id":1108808603
+        }
+    ],
+    "wof:id":9895061043,
+    "wof:lastmodified":1795735102,
+    "wof:name":"Lagjia Baqilisht",
+    "wof:parent_id":1108809565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.08036,
+    43.06793,
+    21.08036,
+    43.06793
+],
+  "geometry": {"coordinates":[21.08036,43.06793],"type":"Point"}
+}
