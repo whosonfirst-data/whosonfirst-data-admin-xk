@@ -1,0 +1,74 @@
+{
+  "id": 9895061001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.70281,43.07626,20.70281,43.07626",
+    "geom:latitude":43.07626,
+    "geom:longitude":20.70281,
+    "iso:country":"XK",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12239278: name \"Gnezhdana\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12239278"
+        },
+        {
+            "citation":"GeoNames populated place 12239278: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12239278"
+        },
+        {
+            "citation":"GeoNames populated place 12239278: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12239278"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108809569 (Leposaviq), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633259,
+        102191581,
+        1108808605,
+        1108809569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12239278
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"33bab3d1e6e775335bcff3bf77c7b6a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809569,
+            "locality_id":9895061001,
+            "region_id":1108808605
+        }
+    ],
+    "wof:id":9895061001,
+    "wof:lastmodified":1795735102,
+    "wof:name":"Gnezhdana",
+    "wof:parent_id":1108809569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.70281,
+    43.07626,
+    20.70281,
+    43.07626
+],
+  "geometry": {"coordinates":[20.70281,43.07626],"type":"Point"}
+}

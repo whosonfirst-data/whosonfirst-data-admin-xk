@@ -1,0 +1,74 @@
+{
+  "id": 9895061048,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.08046,42.96151,21.08046,42.96151",
+    "geom:latitude":42.96151,
+    "geom:longitude":21.08046,
+    "iso:country":"XK",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13412775: name \"Kodralija\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13412775"
+        },
+        {
+            "citation":"GeoNames populated place 13412775: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13412775"
+        },
+        {
+            "citation":"GeoNames populated place 13412775: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13412775"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108809571 (Mitrovice), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633259,
+        102191581,
+        1108808605,
+        1108809571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13412775
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"bef96456c5c60e474bc053e2f5bf79d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809571,
+            "locality_id":9895061048,
+            "region_id":1108808605
+        }
+    ],
+    "wof:id":9895061048,
+    "wof:lastmodified":1795735102,
+    "wof:name":"Kodralija",
+    "wof:parent_id":1108809571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.08046,
+    42.96151,
+    21.08046,
+    42.96151
+],
+  "geometry": {"coordinates":[21.08046,42.96151],"type":"Point"}
+}

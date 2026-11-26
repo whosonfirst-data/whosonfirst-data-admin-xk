@@ -1,0 +1,74 @@
+{
+  "id": 9895060993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.87966,43.12737,20.87966,43.12737",
+    "geom:latitude":43.12737,
+    "geom:longitude":20.87966,
+    "iso:country":"XK",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12210233: name \"Mishlak\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12210233"
+        },
+        {
+            "citation":"GeoNames populated place 12210233: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12210233"
+        },
+        {
+            "citation":"GeoNames populated place 12210233: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12210233"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108809569 (Leposaviq), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633259,
+        102191581,
+        1108808605,
+        1108809569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12210233
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"4fa9ec7d4b17079e1c4668179e08a8d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809569,
+            "locality_id":9895060993,
+            "region_id":1108808605
+        }
+    ],
+    "wof:id":9895060993,
+    "wof:lastmodified":1795735102,
+    "wof:name":"Mishlak",
+    "wof:parent_id":1108809569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.87966,
+    43.12737,
+    20.87966,
+    43.12737
+],
+  "geometry": {"coordinates":[20.87966,43.12737],"type":"Point"}
+}

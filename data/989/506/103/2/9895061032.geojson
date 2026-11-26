@@ -1,0 +1,74 @@
+{
+  "id": 9895061032,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.79551,43.04607,20.79551,43.04607",
+    "geom:latitude":43.04607,
+    "geom:longitude":20.79551,
+    "iso:country":"XK",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12239503: name \"Lagjia \u00c7itlu\u00e7an\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12239503"
+        },
+        {
+            "citation":"GeoNames populated place 12239503: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12239503"
+        },
+        {
+            "citation":"GeoNames populated place 12239503: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12239503"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108809569 (Leposaviq), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633259,
+        102191581,
+        1108808605,
+        1108809569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12239503
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"444e5dd4fff49b462d64707846022744",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809569,
+            "locality_id":9895061032,
+            "region_id":1108808605
+        }
+    ],
+    "wof:id":9895061032,
+    "wof:lastmodified":1795735102,
+    "wof:name":"Lagjia \u00c7itlu\u00e7an",
+    "wof:parent_id":1108809569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.79551,
+    43.04607,
+    20.79551,
+    43.04607
+],
+  "geometry": {"coordinates":[20.79551,43.04607],"type":"Point"}
+}

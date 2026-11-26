@@ -1,0 +1,74 @@
+{
+  "id": 9895060990,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"20.71463,43.2105,20.71463,43.2105",
+    "geom:latitude":43.2105,
+    "geom:longitude":20.71463,
+    "iso:country":"XK",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12173525: name \"Lagjja Janoshec\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12173525"
+        },
+        {
+            "citation":"GeoNames populated place 12173525: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12173525"
+        },
+        {
+            "citation":"GeoNames populated place 12173525: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12173525"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108809569 (Leposaviq), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633259,
+        102191581,
+        1108808605,
+        1108809569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12173525
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"4c76bb08874c36ed8878d1c74e0a5e3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809569,
+            "locality_id":9895060990,
+            "region_id":1108808605
+        }
+    ],
+    "wof:id":9895060990,
+    "wof:lastmodified":1795735102,
+    "wof:name":"Lagjja Janoshec",
+    "wof:parent_id":1108809569,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    20.71463,
+    43.2105,
+    20.71463,
+    43.2105
+],
+  "geometry": {"coordinates":[20.71463,43.2105],"type":"Point"}
+}

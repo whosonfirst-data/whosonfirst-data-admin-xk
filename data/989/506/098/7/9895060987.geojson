@@ -1,0 +1,75 @@
+{
+  "id": 9895060987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.12636,42.67906,21.12636,42.67906",
+    "geom:latitude":42.67906,
+    "geom:longitude":21.12636,
+    "gn:population":150,
+    "iso:country":"XK",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11903151: name \"Hade e Re\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11903151"
+        },
+        {
+            "citation":"GeoNames populated place 11903151: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11903151"
+        },
+        {
+            "citation":"GeoNames populated place 11903151: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11903151"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108809551 (Obiliq), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633259,
+        102191581,
+        1108808603,
+        1108809551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11903151
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"3dea456eb0e35b80927b1321490bbde0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809551,
+            "locality_id":9895060987,
+            "region_id":1108808603
+        }
+    ],
+    "wof:id":9895060987,
+    "wof:lastmodified":1795735102,
+    "wof:name":"Hade e Re",
+    "wof:parent_id":1108809551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.12636,
+    42.67906,
+    21.12636,
+    42.67906
+],
+  "geometry": {"coordinates":[21.12636,42.67906],"type":"Point"}
+}

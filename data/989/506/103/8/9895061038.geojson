@@ -1,0 +1,74 @@
+{
+  "id": 9895061038,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.13534,43.00313,21.13534,43.00313",
+    "geom:latitude":43.00313,
+    "geom:longitude":21.13534,
+    "iso:country":"XK",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12253720: name \"Mbret\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12253720"
+        },
+        {
+            "citation":"GeoNames populated place 12253720: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12253720"
+        },
+        {
+            "citation":"GeoNames populated place 12253720: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12253720"
+        },
+        {
+            "citation":"The hierarchy of WOF localadmin 1108809565 (Podujeve), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85633259,
+        102191581,
+        1108808603,
+        1108809565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12253720
+    },
+    "wof:country":"XK",
+    "wof:geomhash":"d226fc5edc9fa7b43879dc916c423c7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633259,
+            "localadmin_id":1108809565,
+            "locality_id":9895061038,
+            "region_id":1108808603
+        }
+    ],
+    "wof:id":9895061038,
+    "wof:lastmodified":1795735102,
+    "wof:name":"Mbret",
+    "wof:parent_id":1108809565,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-xk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.13534,
+    43.00313,
+    21.13534,
+    43.00313
+],
+  "geometry": {"coordinates":[21.13534,43.00313],"type":"Point"}
+}
